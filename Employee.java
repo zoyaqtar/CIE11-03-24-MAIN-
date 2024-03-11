@@ -1,4 +1,4 @@
- public static void main(String[] args) {
+public class Employee {
     private int employeeId;
     private String employeeName;
     private double salary;
